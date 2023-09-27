@@ -11,3 +11,27 @@ img{
   float: left;
   margin-right: 10px;
 }
+.left{
+  float: left;
+  width: 400px;
+  padding: 1em;
+}
+.center{
+  margin-left: 500px;
+  width: 400px;
+  padding: 1em;
+
+}
+.right{
+  float: right;
+  width: 400px;
+  padding: 1em;
+}
+#line{
+  list-style-type: none;
+}
+#line li{
+  margin-right: 100px;
+  margin-left: 100px;
+  display: inline;
+}
