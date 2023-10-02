@@ -1,37 +1,7 @@
-body{
-  font-family: 'Open Sans', sans-serif;
-  color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background-color: ivory;
+
+a.nav{
+  color: white;
 }
 h1,h2{
-  font-family: 'Oswald',sans-serif;
-}
-img{
-  float: left;
-  margin-right: 10px;
-}
-.left{
-  float: left;
-  width: 400px;
-  padding: 1em;
-}
-.center{
-  margin-left: 500px;
-  width: 400px;
-  padding: 1em;
-
-}
-.right{
-  float: right;
-  width: 400px;
-  padding: 1em;
-}
-#line{
-  list-style-type: none;
-}
-#line li{
-  margin-right: 100px;
-  margin-left: 100px;
-  display: inline;
+  color:darkblue;
 }
